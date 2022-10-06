@@ -1,11 +1,11 @@
-Caso: Abogabot.
+#Caso: Abogabot.
 
 El problema: Un despacho de abogados necesita automatizar las demandas de sus clientes.
 
 La solución: Crear una Aplicación/Página web que se encargue de mantener a el administrador de ésta y a los futuros clientes en contacto.
 
 
-Requerimientos: 
+#Requerimientos: 
 
 1- La App/Página debe contar con un formulario el cual debe ser completo por el cliente (por ende necesitamos que la app contenga un registro previo), posterior a esta acción el cliente recibe el proceso de pago para poder finalizar la transacción de su petición.
 
