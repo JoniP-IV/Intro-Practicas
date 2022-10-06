@@ -1,6 +1,6 @@
 # Caso: Abogabot.
 
-El problema: Un despacho de abogados necesita automatizar las demandas de sus clientes.
+El problema :danger:: Un despacho de abogados necesita automatizar las demandas de sus clientes.
 
 La solución: Crear una Aplicación/Página web que se encargue de mantener a el administrador de ésta y a los futuros clientes en contacto.
 
