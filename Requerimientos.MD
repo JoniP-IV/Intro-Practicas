@@ -21,3 +21,5 @@
 
 7- Se solicita que los colores corporativos sean Azul claro y blanco aunque acepta consejos y/o variantes.
 
+
+# Buyer Persona
